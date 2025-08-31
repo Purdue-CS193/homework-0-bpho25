@@ -1,10 +1,11 @@
 # Brian's First CS193 Homework
 
+```markdown
 My Favorite Things About CS193!
 - Only has one lecture per week
 - Taught by other CS students
 - No tests
-
+```
 
 
 
